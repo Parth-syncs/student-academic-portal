@@ -163,6 +163,14 @@
             border: 1px solid #e2e8f0;
             flex-shrink: 0;
         }
+.table-responsive .table {
+  min-width: 580px;
+}
+
+.table-responsive {
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch;
+}
 
        
         .table-responsive { width: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-radius: 12px; overflow: hidden; }
