@@ -16,7 +16,7 @@ A sleek, responsive academic web portal developed for the Java / Full Stack Java
 - **Student Profile:** Details, technical skills, and hobbies.
 - **Academic Performance:** Structured semester performance table.
 - **Support Interface:** Modern query and feedback form.
-- Fully responsive and screenshot-optimized design.
+
 
 
 
