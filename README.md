@@ -18,5 +18,5 @@ A sleek, responsive academic web portal developed for the Java / Full Stack Java
 - **Support Interface:** Modern query and feedback form.
 - Fully responsive and screenshot-optimized design.
 
-## 🌐 Live - 
+
 
